@@ -5,7 +5,8 @@
 
   <introduction>
     <p>
-      Welcome to MATH 419!
+      Welcome to MATH 419, Section 001 for Spring 2026.
+
     </p>
   </introduction>
   <!-- Include chapters -->
@@ -13,7 +14,6 @@
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
       <dl>
       <li>
         <title>Instructor</title>
