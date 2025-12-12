@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<subsection xml:id="sec-important-dates">
-  <title>Important Dates</title>
+<chapter xml:id="important-dates">
+      <title>Important Dates</title>
+
 
   <p>
     <dl width="wide">
     <li>
-      <title>Friday, Aug 25</title>
+      <title>Tuesday, Jan 27</title>
 
       <p>
-        Last day to add a class
+        Last day to add/drop a class
       </p>
     </li>
 
     <li>
-      <title>Monday, Sep 4</title>
+      <title>Monday, Feb 16</title>
 
       <p>
-        Labor Day (no classes)
+        Presidents' Day (no classes)
       </p>
     </li>
+
+
+ <li>
+      <title>Monday, Apr 20</title>
+
+      <p>
+        Patriots' Day (no classes)
+      </p>
+    </li>
+
 
     <li>
       <title>Monday, Sep 8</title>
@@ -38,7 +49,7 @@
     </li>
 
     <li>
-      <title>Friday, Dec 5</title>
+      <title>Friday, Apr 24</title>
 
       <p>
         Last day to withdraw from class and receive a W
@@ -54,4 +65,4 @@
     </li>
     </dl>
   </p>
-</subsection>
+</chapter>

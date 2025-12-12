@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-course-policies">
-  <title>Course Policies</title>
+<chapter xml:id="policies">
+    <title>Course Policies</title>
 
   <paragraphs>
     <title>Attendance</title>
@@ -139,4 +139,4 @@
   
   </paragraphs>
 
-</section>
+</chapter>

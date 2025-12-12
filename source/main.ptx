@@ -28,19 +28,11 @@
 
     
 
-    <chapter xml:id="policies">
-      <title>Course Policies</title>
 
       <xi:include href="./policies.ptx"/>
 
-    </chapter>
-
-  <chapter xml:id="important-dates">
-      <title>Important Dates</title>
-
       <xi:include href="./dates.ptx"/>
 
-    </chapter>
 
     </book>
   </pretext>
