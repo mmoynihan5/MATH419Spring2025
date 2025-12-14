@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Important Dates",
-  "body": " Important Dates     Tuesday, Jan 27  Last day to add\/drop a class    Monday, Feb 16  Presidents' Day (no classes)    Monday, Apr 20  Patriots' Day (no classes)    Monday, Sep 8  Last day to drop a class    Nov 26 - Nov 28  Thanksgiving break (no classes Wednesday, Thursday or Friday)    Friday, Apr 24  Last day to withdraw from class and receive a W    Thursday, Dec 11  Final Exam from 10:45am to 1:15pm     "
+  "body": " Important Dates     Tuesday, Jan 27  Last day to add\/drop a class    Monday, Feb 16  Presidents' Day (no classes)    March 14 - March 22  Spring Vacation    Monday, Apr 20  Patriots' Day (no classes)    Friday, Apr 24  Last day to withdraw and receive a W Also last day to take a course Credit\/No Credit    Friday, May 08  Semester classes end    TBA  Final Exam from ? to ?     "
 }
 ]
 
