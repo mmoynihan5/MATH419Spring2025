@@ -90,12 +90,69 @@
                 <figure>
                 <caption> Grading Scheme
                 </caption>
-                    <tabular halign="center">
-                        <row ><cell>A</cell><cell>100-93</cell><cell><m>\hspace{0.5in}</m></cell><cell>B-</cell><cell>83-80</cell><cell><m>\hspace{0.5in}</m></cell><cell>D+</cell><cell>70-67</cell></row>
-                        <row ><cell>A-</cell><cell>93-90</cell><cell><m>\hspace{0.5in}</m></cell><cell>C+</cell><cell>80-77</cell><cell><m>\hspace{0.5in}</m></cell><cell>D</cell><cell>67-63</cell></row>
-                        <row ><cell>B+</cell><cell>90-87</cell><cell><m>\hspace{0.5in}</m></cell><cell>C</cell><cell>77-73</cell><cell><m>\hspace{0.5in}</m></cell><cell>D-</cell><cell>63-60</cell></row>
-                        <row ><cell>B</cell><cell>87-83</cell><cell><m>\hspace{0.5in}</m></cell><cell>C-</cell><cell>73-70</cell><cell><m>\hspace{0.5in}</m></cell><cell>F</cell><cell>Below 60</cell></row>
-                    </tabular>
+  <sbsgroup widths="10% 15%" margins="35%">
+  
+  <sidebyside>
+    <p>A</p>
+
+    <p>93-100</p>
+  </sidebyside>
+  <sidebyside>
+    <p>A-</p>
+
+    <p>90-93</p>
+  </sidebyside>
+  <sidebyside>
+    <p>B+</p>
+
+    <p>87-90</p>
+  </sidebyside>
+  <sidebyside>
+    <p>B</p>
+
+    <p>83-87</p>
+  </sidebyside>
+  <sidebyside>
+    <p>B-</p>
+
+    <p>80-83</p>
+  </sidebyside>
+  <sidebyside>
+    <p>C+</p>
+
+    <p>77-80</p>
+  </sidebyside>
+  <sidebyside>
+    <p>C</p>
+
+    <p>73-77</p>
+  </sidebyside>
+  <sidebyside>
+    <p>C-</p>
+
+    <p>70-73</p>
+  </sidebyside>
+  <sidebyside>
+    <p>D+</p>
+
+    <p>67-70</p>
+  </sidebyside>
+  <sidebyside>
+    <p>D</p>
+
+    <p>63-67</p>
+  </sidebyside>
+  <sidebyside>
+    <p>D-</p>
+
+    <p>60-63</p>
+  </sidebyside>
+  <sidebyside>
+    <p>F</p>
+
+    <p>Below 60</p>
+  </sidebyside>
+</sbsgroup>
                 </figure>
       </p>
     </paragraphs>
