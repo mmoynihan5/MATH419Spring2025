@@ -25,53 +25,70 @@
   <paragraphs>
     <title>Late work</title>
     <p>
+      Make-up exams should be a rare occurrence reserved for illness and/or emergencies.
+      Requests will be considered on a case-by-case basis and are not guaranteed.
+      In particular, I will consider recent attendance and recent homework to see if you have been participating in the course.
     </p>
+    
+    <!-- <p>
+      Everyone will be given 5 late passes to extend homework due dates (with full credit)!
+      However, you can only extend the due date by one week.
+      This is to make sure you do not fall too far behind and to make sure we are all ready to participate in class.
+    </p> -->
   </paragraphs>
 
 
   <paragraphs>
     <title>Classroom Decorum</title>
         <p>
+          Show an attitude of respect toward everyone in the classroom.
+          Racist, sexist, antisemitic, Islamophobic, or pornographic content is never allowed.
+        </p>
 
-
-\begin{itemize}[topsep=0pt,itemsep=10pt]
-%\item Our ``class meeting space'' is your home.
-%Come as you are.
-
-%\item Protect the health of everyone in the classroom by following all University requirements for wearing masks, COVID testing, and quarantining.
-
-%In particular, MASKS COVERING YOUR NOSE AND MOUTH ARE REQUIRED AT ALL TIMES IN OUR CLASSROOM!
-
-
-\item Show an attitude of respect toward everyone in the classroom.
-Racist, sexist, antisemitic, Islamophobic, or pornographic content is never allowed.
-
-\item Attend every class awake, on time, and ready to learn with cell phones and all other electronic devices off and out of sight.
-
-
-\item Complete homework assignments carefully, thoughtfully, and on time.
-
-
-\item Prepare for assessments successfully.
-Make sure you test yourself before I do!
-
-\item Attend help sessions and form study groups for extra help.
-
-\item For each credit hour spend at least two hours working on the material outside of class.
-For us that means at least eight hours of work per week outside of class.
-
-\item Read all covered sections of the textbook.
-Reading is absolutely crucial to learning Abstract Algebra.
-You cannot learn to write proofs without reading examples of successful proofs.
-
-%\item Work towards antiracist classrooms with me.
-
-\end{itemize}
-
+        <p>
+          Attend every class awake, on time, and ready to learn with cell phones and all other electronic devices off and out of sight.
         </p>
   </paragraphs>
 
 
+  <paragraphs>
+    <title>My Expectations</title>
+        <p>
+          <ul>
+            <li>
+              <p>
+                Complete homework assignments carefully, thoughtfully, and on time.
+              </p>
+            </li>
+            <li>
+              <p>
+                Prepare for assessments successfully.
+Make sure you test yourself before I do!
+              </p>
+            </li>
+            <li>
+              <p>
+                Attend help sessions and form study groups for extra help.
+              </p>
+            </li>
+            <li>
+              <p>
+                For each credit hour spend at least two hours working on the material outside of class.
+                For us that means at least eight hours of work per week outside of class.
+              </p>
+            </li>
+            <li>
+              <p>
+                Read all covered sections of the textbook.
+                Reading is absolutely crucial to learning Abstract Algebra.
+                You cannot learn to write proofs without reading examples of successful proofs.
+              </p>
+            </li>
+          </ul>
+        </p>
+  </paragraphs>
+
+  
   <paragraphs>
     <title>Academic Integrity</title>
 

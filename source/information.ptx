@@ -65,11 +65,7 @@
 
         <p>
           <pubtitle>Abstract Algebra: Theory and Applications</pubtitle>
-          by Thomas W. Judson.
-        </p>
-        
-        <p>
-          <url href="https://judsonbooks.org/aata-files/aata-html/aata.html" visual="judsonbooks/aata">Read Online</url>
+          by Thomas W. Judson. <url href="https://judsonbooks.org/aata-files/aata-html/aata.html" visual="judsonbooks/aata">Read Online</url>
         </p>
 
 
@@ -104,7 +100,7 @@
 
 
       <p>
-        <ol>
+        <ul>
           <li>
             <p>Extend your mathematical reasoning skills: abstracting, generalizing, and formal proof.
             </p>
@@ -122,7 +118,7 @@
   </p>
 </li>
           
-        </ol>
+        </ul>
       </p>
     </paragraphs>
 
