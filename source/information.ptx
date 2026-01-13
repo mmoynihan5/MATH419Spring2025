@@ -2,11 +2,11 @@
 
 <section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Information</title>
+  
 
-    <p>
-      Welcome to MATH 419 for Spring 2026!
-    </p>
-
+  <subsection xml:id="subsec-TheBasics">
+    <title>The Basics</title>
+    
     <p>
       <dl>
         <li>
@@ -86,34 +86,38 @@
         </li>
       </dl>
     </p>
+  </subsection>
+
+
 
 
    
-    <subsection>
-      <title>Course Goals</title>
+  <subsection>
+    <title>Course Goals</title>
 
-      <p>
-        <ul>
-          <li>
-            <p>Extend your mathematical reasoning skills: abstracting, generalizing, and formal proof.
-            </p>
-          </li>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Extend your mathematical reasoning skills: abstracting, generalizing, and formal proof.
+          </p>
+        </li>
 
-          <li>
-            <p>Strengthen your mathematical writing with appropriate use of mathematical language, notation, and symbolism.
-            </p>
-          </li>
-
-
-<li>
-  <p>
-    Increase your confidence with the theoretic structure of mathematics: the role of definitions, examples, and theorems; abstract concepts; and logical reasoning.
-  </p>
-</li>
+        <li>
+          <p>
+            Strengthen your mathematical writing with appropriate use of mathematical language, notation, and symbolism.
+          </p>
+        </li>
+        
+        <li>
+          <p>
+            Increase your confidence with the theoretic structure of mathematics: the role of definitions, examples, and theorems; abstract concepts; and logical reasoning.
+          </p>
+        </li>
           
-        </ul>
-      </p>
-    </subsection>
+      </ul>
+    </p>
+  </subsection>
 
 
-  </section>
+</section>

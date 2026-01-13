@@ -4,21 +4,8 @@
 
   <title>Frequently Asked Questions</title>
   
-  <p>
-     <dl>
-      <li>
-        <title>How can I get extra help learning the material?</title>
-
-        <p>
-          I encourage you to come to Student Help Hours whenever you have questions.
-      Make sure to see me as soon as possible if you feel that you are falling behind.
-        </p>
-      </li>
-    </dl>
-
-    </p>
-
-      <subsection>
+  
+  <subsection>
     
     <title>How can I get extra help learning the material?</title>
     
@@ -31,7 +18,7 @@
   
   
   
-  <paragraphs>
+  <subsection>
     <title>What if I need academic accommodations like extra time or a reduced distraction environment for exams?</title>
 
     <p>
@@ -40,10 +27,10 @@
       Please email <url href="mailto:disabilityservices@framingham.edu">disabilityservices@framingham.edu</url> if you have questions or if you need to schedule an appointment.
     </p>
   
-  </paragraphs>
+  </subsection>
   
   
-  <paragraphs>
+  <subsection>
     <title>What if I am struggling with food or housing insecurity?</title>
 
     <p>
@@ -56,12 +43,12 @@
       The Dean of Students Office is located on the 5th floor of the McCarthy Center in Suite 504.
     </p>
 
-  </paragraphs>
+  </subsection>
 
 
 
 
-  <paragraphs>
+  <subsection>
     <title>What if I need a letter of recommendation?</title>
 
     <p>
@@ -71,12 +58,12 @@
       Note: I usually need at least two weeks to be able to write a quality letter.
     </p>
 
-  </paragraphs>
+  </subsection>
 
 
 
 
-  <paragraphs>
+  <subsection>
     <title>What other help is available on campus?</title>
 
     <p>
@@ -102,7 +89,7 @@
 
 </p>
 
-  </paragraphs>
+  </subsection>
 
 
 

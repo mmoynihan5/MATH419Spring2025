@@ -23,7 +23,7 @@
     </subsection>
 
 
-    <paragraphs>
+    <subsection>
       <title>Final Exam</title>
 
       <p>
@@ -32,58 +32,21 @@
         You need to grow beyond basic understand to see things at a deeper level.
         That is how you will retain them and be able to succeed on new problems!
       </p>
-    </paragraphs>
+    </subsection>
 
 
-    <paragraphs>
-      <title>Assessment of Mathematical Engagement</title>
-
-      <p>
-        Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.
-        <dl>
-        <li>
-          <title>Participation</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Daily Prep Assignments</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Practice Problems</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Written Homework</title>
-
-          <p>
-          </p>
-        </li>
-        </dl>
-      </p>
-    </paragraphs>
-
-
-    <paragraphs>
+    <subsection>
       <title>Final Grades</title>
 
       <p>
         The following percentage weights are used for calculating your weighted course average.
-        <!-- Students needing to take MATH 180 Precalculus are required to earn a C (2.00) or better in MATH 123/123R Introduction to Functions. -->
-         <sbsgroup widths="20% 15%" halign="right left" margins="30%">
-          <sidebyside>
-            <p><m>P^3</m></p>
-            <p>15%</p>
-          </sidebyside>
+      </p>
+
+      <sbsgroup widths="20% 15%" margins="30%">
+        <sidebyside>
+          <p><m>P^3</m></p>
+          <p>15%</p>
+        </sidebyside>
 
           <sidebyside>
             <p>Exam 1</p>
@@ -105,10 +68,10 @@
             <p>25%</p>
           </sidebyside>
         </sbsgroup>  
-      </p>
 
       <p>
         Final grades will be assigned based on the following scale.
+      </p>
         <sbsgroup widths="10% 15%" margins="35%">
           <sidebyside>
             <p>A</p>
@@ -171,8 +134,7 @@
 
         </sbsgroup>
       
-      </p>
-    </paragraphs>
+    </subsection>
 
 
   </section>
