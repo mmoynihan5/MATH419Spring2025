@@ -30,7 +30,7 @@
         The final exam will be cumulative.
         As you work through the semester, always keep this in mind.
         You need to grow beyond basic understand to see things at a deeper level.
-        That is how you will retain them and be able to succeed on new problems!
+        That is how you will retain knowledge and be able to succeed on new problems!
       </p>
     </subsection>
 
@@ -39,100 +39,95 @@
       <title>Final Grades</title>
 
       <p>
-        The following percentage weights are used for calculating your weighted course average.
+        The following weights are used for calculating your weighted course average.
       </p>
 
-      <sbsgroup widths="20% 15%" margins="30%">
-        <sidebyside>
-          <p><m>P^3</m></p>
-          <p>15%</p>
-        </sidebyside>
-
-          <sidebyside>
-            <p>Exam 1</p>
-            <p>20%</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>Exam 2</p>
-            <p>20%</p>
-          </sidebyside>
-
-          <sidebyside>
-            <p>Exam 3</p>
-            <p>20%</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>Final Exam</p>
-            <p>25%</p>
-          </sidebyside>
-        </sbsgroup>  
+      <tabular halign="right">
+        <row header="yes" bottom="minor" >
+          <cell>Category</cell>
+          <cell>Weight</cell>
+        </row>
+        <row>
+          <cell><m>P^3</m></cell>
+          <cell>15%</cell>
+        </row>
+        <row>
+          <cell>Exam 1</cell>
+          <cell>20%</cell>
+        </row>
+        <row>
+          <cell>Exam 2</cell>
+          <cell>20%</cell>
+        </row>
+        <row>
+          <cell>Exam 3</cell>
+          <cell>20%</cell>
+        </row>
+        <row>
+          <cell>Final Exam</cell>
+          <cell>25%</cell>
+        </row>
+      </tabular>
 
       <p>
         Final grades will be assigned based on the following scale.
       </p>
-        <sbsgroup widths="10% 15%" margins="35%">
-          <sidebyside>
-            <p>A</p>
-            <p>93-100</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>A-</p>
-            <p>90-93</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>B+</p>
-            <p>87-90</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>B</p>
-            <p>83-87</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>B-</p>
-            <p>80-83</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>C+</p>
-            <p>77-80</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>C</p>
-            <p>73-77</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>C-</p>
-            <p>70-73</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>D+</p>
-            <p>67-70</p>
-          </sidebyside>
-  
-          <sidebyside>
-            <p>D</p>
-            <p>63-67</p>
-          </sidebyside>
-          <sidebyside>
-            <p>D-</p>
-            <p>60-63</p>
-          </sidebyside>
+        
+      <tabular halign="center">
+        <row header="yes" bottom="minor" >
+          <cell>Percentage</cell>
+          <cell>Grade</cell>
+        </row>
+        <row>
+          <cell>93-100</cell>
+          <cell>A</cell>
+        </row>
+        <row>
+          <cell>90-93</cell>
+          <cell>A-</cell>
+        </row>
+        <row>
+          <cell>87-90</cell>
+          <cell>B+</cell>
+        </row>
+        <row>
+          <cell>83-87</cell>
+          <cell>B</cell>
+        </row>
+        <row>
+          <cell>80-83</cell>
+          <cell>B-</cell>
+        </row>
+        <row>
+          <cell>77-80</cell>
+          <cell>C+</cell>
+        </row>
+        <row>
+          <cell>73-77</cell>
+          <cell>C</cell>
+        </row>
+        <row>
+          <cell>70-73</cell>
+          <cell>C-</cell>
+        </row>
+        <row>
+          <cell>67-70</cell>
+          <cell>D+</cell>
+        </row>
+        <row>
+          <cell>63-67</cell>
+          <cell>D</cell>
+        </row>
+        <row>
+          <cell>60-63</cell>
+          <cell>D-</cell>
+        </row>
+        <row>
+          <cell>Below 60</cell>
+          <cell>F</cell>
+        </row>
+      </tabular>
 
-          <sidebyside>
-            <p>F</p>
-            <p>Below 60</p>
-          </sidebyside>
-
-        </sbsgroup>
       
     </subsection>
 
